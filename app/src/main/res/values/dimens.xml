@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="min_touch_target_size">48dp</dimen>
+
+    <!--Shape-->
+    <dimen name="reply_small_component_corner_radius">24dp</dimen>
+    <dimen name="reply_medium_component_corner_radius">0dp</dimen>
+    <dimen name="reply_large_component_corner_radius">12dp</dimen>
+
+    <!--BottomAppBar-->
+    <dimen name="bottom_app_bar_fab_cradle_corner_radius">32dp</dimen>
+    <dimen name="bottom_app_bar_fab_cradle_margin">8dp</dimen>
+    <dimen name="bottom_app_bar_height">56dp</dimen>
+
+    <!--Elevation-->
+    <dimen name="plane_00">0dp</dimen>
+    <dimen name="plane_01">1dp</dimen>
+    <dimen name="plane_02">2dp</dimen>
+    <dimen name="plane_06">6dp</dimen>
+    <dimen name="plane_08">8dp</dimen>
+    <dimen name="plane_16">16dp</dimen>
+
+    <!--2dp sub grid-->
+    <dimen name="grid_0_5">4dp</dimen>
+    <dimen name="grid_0_25">2dp</dimen>
+
+    <!--8dp grid-->
+    <dimen name="grid_1">8dp</dimen>
+    <dimen name="grid_2">16dp</dimen>
+    <dimen name="grid_3">24dp</dimen>
+    <dimen name="grid_4">32dp</dimen>
+
+
+</resources>
